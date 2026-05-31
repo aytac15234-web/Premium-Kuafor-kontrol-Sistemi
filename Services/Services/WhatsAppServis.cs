@@ -1,0 +1,1 @@
+whatsap kodlari gelecek buraya
