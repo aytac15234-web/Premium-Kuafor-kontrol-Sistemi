@@ -1,1 +1,0 @@
-servis kodlari burya
