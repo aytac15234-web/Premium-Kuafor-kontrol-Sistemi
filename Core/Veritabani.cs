@@ -6,7 +6,7 @@ namespace berber_randavu_sitesmi
 {
     public class Veritabani
     {
-        private readonly string constr = "Server=localhost;Database=berber_db;Uid=root;Pwd=1.Aytac;";
+        private readonly string constr = "Server=localhost;Database=berber_db;Uid=root;Pwd=sifre;";
 
         public DataTable PersonelleriGetir()
         {
